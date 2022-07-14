@@ -1,0 +1,4 @@
+2022-07-12T13:27:43+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\marinacenter\wp-content\plugins\wp-rockett\inc\functions/htaccess.php' (include_path='.;C:\php\pear') en C:\wamp64\www\marinacenter\wp-content\plugins\wp-rockett\wp-rocket.php en la línea 195
+
+2022-07-12T13:44:56+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\marinacenter\wp-content\plugins\wp-rockett\inc\functions/htaccess.php' (include_path='.;C:\php\pear') en C:\wamp64\www\marinacenter\wp-content\plugins\wp-rockett\wp-rocket.php en la línea 195
+

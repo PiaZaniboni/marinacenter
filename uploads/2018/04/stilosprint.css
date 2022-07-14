@@ -1,0 +1,11 @@
+.woocommerce-product-gallery__image.flex-active-slide {
+    width: 200%;
+}
+
+.woocommerce-product-gallery__image {
+    width: 60%;
+}
+
+.zoomImg {
+ display:none !important;
+}

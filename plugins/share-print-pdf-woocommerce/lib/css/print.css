@@ -1,0 +1,205 @@
+@media print {
+	* { background:transparent !important; color:black !important; box-shadow:none !important; text-shadow:none !important; }
+	a, a:visited { text-decoration:underline; }
+	a[href]:after { content:" (" attr(href) ")"; }
+	abbr[title]:after { content:" (" attr(title) ")"; }
+	.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content:""; }
+	pre, blockquote { border:.5mm solid #999; page-break-inside:avoid; }
+	thead { display:table-header-group; }
+	tr, img { page-break-inside:avoid; }
+	img { max-width:100% !important; }
+	@page { margin:1cm 1cm 1cm 2cm; }
+	p, h2, h3 { orphans:3; widows:3; }
+	h2, h3 { page-break-after:avoid; }
+}
+
+body {
+	font-family:"Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+	line-height:.6cm;
+	font-size:.45cm;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight:bold;
+}
+h1 {
+	font-size:1cm;
+	line-height:1cm;
+	margin:.5em 0 .25em;
+}
+h1:after{
+	content:'';
+	display: table;
+	clear: both;
+}
+h2 {
+	font-size:.8cm;
+	line-height:.8cm;
+	margin:.5em 0 .25em;
+}
+h3 {
+	font-size:.7cm;
+	line-height:.7cm;
+	margin:.5em 0 .25em;
+}
+h4 {
+	font-size:.6cm;
+	line-height:.6cm;
+	margin:.4em 0 .25em;
+}
+h5 {
+	font-size:.7cm;
+	line-height:.7cm;
+	margin:.3em 0 .15em;
+	padding:0;
+}
+h5 {
+	font-size:.6cm;
+	line-height:.6cm;
+	margin:.2em 0 .15em;
+	padding:0;
+}
+hr {
+	display:block;
+	border-style:solid;
+	border-width:2px;
+	border-bottom: 0;
+}
+del {
+	font-size:.5cm;
+}
+ins {
+	text-decoration:none;
+}
+blockquote {
+	border:0;
+	border-bottom:2px solid #000;
+	background:#eee;
+	padding:0.125cm 0;
+	margin:0;
+	font-weight: 600;
+}
+pre {
+	border:1px solid #000;
+	padding:0.25cm;
+}
+ul,ol {
+	margin:0;
+	padding:0;
+	list-style-position: inside;
+}
+ul ul, ol ol {
+	margin-left:0.5cm;
+}
+table {
+	width:100%;
+}
+table, th, td {
+	border:2px solid #000;
+}
+table {
+	border-bottom:0;
+	border-left:0;
+}
+td, th {
+	border-top:0;
+	border-right:0;
+	padding:0.125cm;
+}
+th {
+	text-align: left;
+	font-weight:bold;
+}
+.wcspp-go-print {
+	display:none;
+}
+.wcspp-logo {
+	float:left;
+	height:1.1cm;
+	width:auto;
+	margin-right:0.25cm;
+}
+.wcspp-product-title {
+	display:block;
+	font-size:1cm;
+	line-height:1cm;
+	margin-bottom:.25em;
+	font-weight: 600;
+}
+
+.wcspp-title {
+	max-width:65%;
+	font-size:1cm;
+	line-height:1cm;
+	margin:0;
+	font-weight: 600;
+	float:left;
+}
+
+.wcspp-price {
+	font-size:.8cm;
+	line-height:.8cm;
+	float:right;
+	white-space:nowrap;
+}
+	.wcspp-price ins span {
+		margin-left:.25em;
+	}
+	.wcspp-price ins span:first-child {
+		margin-right:.25em;
+	}
+
+.wcspp-main-image {
+	float:left;
+	width:50%;
+	margin-bottom:1em;
+}
+	.wcspp-main-image img {
+		width:100%;
+		height:auto;
+	}
+
+.wcspp-images {
+	margin-left:53%;
+	margin-bottom:1em;
+}
+	.wcspp-images img {
+		width:50%;
+		height:auto;
+		margin-bottom:0;
+	}
+
+.wcspp-block-wrap {
+	margin-bottom:1em;
+}
+
+.wcspp-block {
+	display: block;
+}
+
+.wcspp-description {
+	margin-bottom:2em;
+}
+.wcspp-description:before {
+	content:'';
+	display:table;
+	clear:both;
+}
+
+.wcspp-url {
+	font-size:11pt;
+	vertical-align:middle;
+}
+.wcspp-meta {
+	margin-bottom:2em;
+}
+.wcspp-add {
+	margin:1.5em 0 0;
+}
+.wcspp-content img {
+	display:block;
+	margin:1em 0;
+}
+.wcspp-quickview .wcspp-page-wrap h3 {
+	font-size: inherit;
+	line-height: inherit;
+}

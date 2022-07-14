@@ -1,0 +1,2 @@
+2022-07-14T14:38:06+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) en C:\wamp64\www\marinacenter\wp-includes\widgets\class-wp-widget-block.php en la línea 0
+

@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fast Media Gallery\n"
+"POT-Creation-Date: 2016-02-09 20:52+0100\n"
+"PO-Revision-Date: 2016-02-09 20:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: AD-Theme <support@ad-theme.com>\n"
+"Language: ENG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class/fastmediagallery_class.php:24
+#: ../class/fastmediagallery_class.php:29
+msgid "Fast Media Gallery"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:25
+msgid "Create your media gallery"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:35
+msgid "Media Gallery Name"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:43
+msgid "Show Name"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:54
+msgid "Columns"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:72
+msgid "Masonry / Grid"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:83
+msgid "Responsive / Fluid"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:94
+msgid "Over Image"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:105
+msgid "Show Caption Image"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:116
+msgid "Lazy Load"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:127
+msgid "Lazy Load Animation (Fade in Effect)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:142
+msgid "Pagination"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:153
+msgid "Number of images for each page"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:156
+msgid "For example: 15 (Default value is 10)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:169
+msgid "Add Element"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:172
+msgid "Add and sort multiple elements"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:178
+msgid "Label"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:180
+msgid "Element Label Name"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:188
+msgid "Type"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:191
+msgid "Image"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:192
+msgid "Video"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:193
+msgid "Audio"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:194
+#: ../class/fastmediagallery_class.php:296
+msgid "Iframe"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:195
+msgid "Custom URL (element without lightbox)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:204
+msgid "Video URL Type"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:207
+#: ../class/fastmediagallery_class.php:253
+msgid "Local"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:208
+msgid "Youtube or Vimeo"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:220
+msgid "Video URL"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:222
+msgid "ex http://yoursite.com/video.mp4"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:234
+msgid "Youtube or Vimeo Video URL"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:236
+msgid "ex https://www.youtube.com/watch?v=asQx7laC9Ww"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:250
+msgid "Audio URL Type"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:254
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:266
+msgid "Audio URL Local"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:268
+msgid "ex http://yoursite.com/sound.mp3"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:280
+msgid "Audio URL Sound Cloud"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:282
+msgid "ex https://soundcloud.com/travisscott-2/wonderful-ftthe-weeknd"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:298
+msgid "ex https://www.google.com"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:311
+msgid "Image Poster Type"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:314
+msgid "Default"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:315
+msgid "Custom"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:327
+msgid "Image Poster Custom"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:329
+#: ../class/fastmediagallery_class.php:346
+#: ../class/fastmediagallery_class.php:359
+msgid ""
+"If you get image from library (not uploaded) we reccomended you to "
+"regenerate your thumbs"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:344
+#: ../class/fastmediagallery_class.php:357
+msgid "Upload Your Image"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:370
+msgid "Custom URL"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:372
+msgid "ex http://yoursite.com/"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:384
+msgid "Custom URL Target"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:387
+msgid "Blank (new window)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:388
+msgid "Self (Same window)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:400
+msgid "Caption"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:403
+#: ../class/fastmediagallery_class.php:907
+msgid "Off"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:404
+#: ../class/fastmediagallery_class.php:908
+msgid "On"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:411
+msgid "Caption Text"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:428
+msgid "Style"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:450
+msgid "Main Color"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:458
+msgid "Opacity"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:461
+msgid "Main Color Opacity (0.1 to 1)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:467
+msgid "Secondary Color"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:475
+msgid "Custom spacing between the photos"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:486
+msgid "spacing between the photos"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:489
+#: ../class/fastmediagallery_class.php:502
+msgid "Enter pixel value (examples: 20)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:499
+msgid "Gallery Name Font Size"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:512
+msgid "Gallery Name Font Color"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:524
+msgid "Gallery Name Text Align"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:540
+msgid "Pagination Style"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:555
+msgid "Icon Image Lightbox Width"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:569
+msgid "Image Thumbnail Size"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:588
+msgid "Masonry Thumbnails Size"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:607
+msgid "Image Lightbox Size"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:624
+msgid "Speed"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:627
+msgid "time in ms (1000 = 1sec). Example: 2000"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:633
+msgid "Thumbnail"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:644
+msgid "Controls"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:657
+msgid "Youtube Modest branding"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:669
+msgid "Youtube Show Info"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:680
+msgid "Youtube Rel"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:691
+msgid "Youtube Controls"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:703
+msgid "Vimeo Byline"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:704
+msgid "Show the user’s byline on the video"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:715
+msgid "Vimeo Portrait"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:716
+msgid "Show the user’s portrait on the video"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:727
+msgid "Vimeo Title"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:728
+msgid "Show the title on the video"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:739
+msgid "Vimeo Badge"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:740
+msgid "Enables or disables the badge on the video"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:754
+msgid "Active Custom Responsive"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:769
+msgid "Smartphone Portrait"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:791
+msgid "Smartphone Landscape"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:813
+msgid "Tablet Portrait"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:835
+msgid "Tablet Landscape"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:857
+msgid "Desktop (min value 640px - max value 1024px)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:879
+msgid "Desktop (max 639px)"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:904
+msgid "Animate"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:916
+msgid "Animate Effects"
+msgstr ""
+
+#: ../class/fastmediagallery_class.php:928
+msgid "Animate Delay (ms)"
+msgstr ""
